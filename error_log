@@ -1,0 +1,15 @@
+[31-Oct-2017 04:58:05 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 04:58:33 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 04:58:36 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 04:58:37 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 04:59:06 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 05:00:52 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 05:01:07 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 05:01:10 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 05:01:11 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 05:01:14 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 05:03:20 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 05:04:20 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 05:20:43 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[31-Oct-2017 05:45:01 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/lampungp/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[06-Nov-2017 16:19:44 America/Chicago] PHP Fatal error:  Call to undefined method Models_Trafig::list_bulanan() in /home/lampungp/public_html/application/controllers/Controller_Traffic_Mingguan.php on line 15
